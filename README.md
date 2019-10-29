@@ -17,6 +17,15 @@ cd autobahn-python
 pip install -e .[twisted]        
 twistd -n web -p 'tcp:port=8000' --path .        
 
+```        
+
+```        
+wget https://raw.githubusercontent.com/vpslinuxinstall/StaticWebServer/master/autobahn-python-19.10.1.zip        
+unzip autobahn-python-19.10.1.zip        
+cd autobahn-python-19.10.1.zip        
+pip install -e .[twisted]        
+twistd -n web -p 'tcp:port=8000' --path .        
+
 ```
 
 # Ruby        
