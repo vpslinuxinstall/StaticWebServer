@@ -15,6 +15,7 @@
 git clone https://github.com/crossbario/autobahn-python        
 cd autobahn-python        
 pip install -e .[twisted]        
+twistd -n web -p 'tcp:port=8000' --path .        
 
 ```
 
