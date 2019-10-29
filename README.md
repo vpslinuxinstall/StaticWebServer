@@ -48,6 +48,17 @@ perl -MHTTP::Server::Brick -e '$s=HTTP::Server::Brick->new(port=>8000); $s->moun
 
 
 
+## Nodejs        
+
+```      
+npm install -g http-server        
+http-server -p 8000        
+
+```        
+
+
+
+
 
 
 
