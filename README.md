@@ -13,13 +13,26 @@
 
 `ruby -run -ehttpd . -p8000`        
 
-# adsf        
+## adsf        
 ```        
 gem install adsf        
 adsf -p 8000        
 
 ```        
 There is no ftp server.        
+
+
+# Perl        
+
+## Plack        
+
+```        
+cpan Plack        
+plackup -MPlack::App::Directory -e 'Plack::App::Directory->new(root=>".");' -p 8000        
+
+```        
+
+
 
 
 
