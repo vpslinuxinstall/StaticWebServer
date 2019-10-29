@@ -39,11 +39,24 @@ plackup -MPlack::App::Directory -e 'Plack::App::Directory->new(root=>".");' -p 8
 
 ```        
 cpan HTTP::Server::Brick        
-plackup -MPlack::App::Directory -e 'Plack::App::Directory->new(root=>".");' -p 8000        
+perl -MHTTP::Server::Brick -e '$s=HTTP::Server::Brick->new(port=>8000); $s->mount("/"=>{path=>"."}); $s->start'        
 
 ```        
 
 There is no ftp server.        
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
