@@ -59,6 +59,10 @@ http-server -p 8000
 
 
 
+## caddy        
+
+`caddy -port 8000`        
+
 
 
 
