@@ -19,6 +19,10 @@ gem install adsf
 adsf -p 8000        
 
 ```        
+There is no ftp server.        
+
+
+
 
 
 
