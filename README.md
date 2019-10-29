@@ -13,6 +13,13 @@
 
 `ruby -run -ehttpd . -p8000`        
 
+# adsf        
+```        
+gem install adsf        
+adsf -p 8000        
+
+```        
+
 
 
 
