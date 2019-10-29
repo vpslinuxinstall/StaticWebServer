@@ -35,6 +35,23 @@ plackup -MPlack::App::Directory -e 'Plack::App::Directory->new(root=>".");' -p 8
 
 
 
+## Brick        
+
+```        
+cpan HTTP::Server::Brick        
+plackup -MPlack::App::Directory -e 'Plack::App::Directory->new(root=>".");' -p 8000        
+
+```        
+
+There is no ftp server.        
+
+
+
+
+
+
+
+
 
 
 
