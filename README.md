@@ -72,6 +72,27 @@ http-server -p 8000
 
 
 
+## Rust        
+
+```        
+cargo install https        
+http        
+
+```        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
