@@ -9,6 +9,10 @@
 
 `python3 -m http.server 8000`        
 
+# Ruby        
+
+`ruby -run -ehttpd . -p8000`        
+
 
 
 
