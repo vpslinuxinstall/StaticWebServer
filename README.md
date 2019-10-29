@@ -1,5 +1,5 @@
-# StaticWebServer
-[StaticWebServer](https://github.com/m3ng9i/ran)
+# Static Web Server
+[Static Web Server](https://github.com/m3ng9i/ran)
 
 
 
