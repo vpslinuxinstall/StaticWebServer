@@ -9,6 +9,15 @@
 
 `python3 -m http.server 8000`        
 
+## twistd        
+
+```        
+git clone https://github.com/crossbario/autobahn-python        
+cd autobahn-python        
+pip install -e .[twisted]        
+
+```
+
 # Ruby        
 
 `ruby -run -ehttpd . -p8000`        
