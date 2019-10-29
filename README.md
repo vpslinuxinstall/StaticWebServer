@@ -93,6 +93,11 @@ http-server -p 8000
 
 `caddy -port 8000`        
 
+`caddy browse`        
+
+
+
+
 
 
 
