@@ -6,22 +6,18 @@
        * **[caddy](#caddy)**<br />
        * **[Ran](#Ran)**<br />
        * **[Algernon](#Algernon)**<br />
-
 * **[Python](#Python)**<br />
        * **[twistd](#twistd)**<br /> 
 
-* **[Ruby](#Ruby)** 
+* **[Ruby](#Ruby)**<br /> 
        * **[adsf](#adsf)**<br /> 
-
 * **[Perl](#Perl)** 
        * **[Plack](#Plack)**<br />
        * **[Brick](#Brick)**<br />
        * **[SimpleHTTPServer](#SimpleHTTPServer)**<br />
-
-* **[Nodejs](#Nodejs)**
+* **[Nodejs](#Nodejs)**<br />
        * **[http-server](#http-server)**<br />
-
-* **[Rust](#Rust)** 
+* **[Rust](#Rust)**<br /> 
        * **[https](#https)**<br />
 
 
