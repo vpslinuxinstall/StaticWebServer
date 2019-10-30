@@ -1,4 +1,8 @@
-# Static Web Server        
+# Go        
+
+## Ran
+
+[Static Web Server](https://github.com/m3ng9i/ran)
 
 ```      
 wget https://raw.githubusercontent.com/vpslinuxinstall/StaticWebServer/master/ran_linux_386.zip       
@@ -7,7 +11,13 @@ chmod +x ran_linux_386
 ./ran_linux_386 -p 8000 -i index.html        
 
 ```
-[Static Web Server](https://github.com/m3ng9i/ran)       
+       
+
+
+
+## Algernon        
+
+[algernon](https://github.com/xyproto/algernon) 
 
 ```        
 wget https://github.com/vpslinuxinstall/StaticWebServer/raw/master/algernon.zip        
@@ -20,7 +30,7 @@ chmod +x algernon
 
 ```        
 
-[algernon](https://github.com/xyproto/algernon)     
+    
 
 
 
