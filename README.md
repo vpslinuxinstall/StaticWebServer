@@ -32,9 +32,13 @@
 
 ## caddy        
 
-`caddy -port 8000`        
 
-`caddy browse`       
+```        
+caddy -port 8000        
+caddy browse        
+
+```
+      
 
 ## Ran
 
