@@ -7,7 +7,16 @@ chmod +x ran_linux_386
 ./ran_linux_386 -p 8000 -i index.html        
 
 ```
-[Static Web Server](https://github.com/m3ng9i/ran)
+[Static Web Server](https://github.com/m3ng9i/ran)       
+
+```        
+wget https://github.com/vpslinuxinstall/StaticWebServer/raw/master/algernon.zip        
+unzip algernon.zip      
+cd algernon
+chmod +x algernon        
+./algernon -x 8000        
+
+```
 
 
 
