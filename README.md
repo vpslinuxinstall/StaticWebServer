@@ -76,14 +76,36 @@ chmod +x algernon
  [Spark](https://github.com/rif/spark)       
  
  ```       
- wget https://github.com/vpslinuxinstall/StaticWebServer/raw/master/sparkSource.zip       
- unzip sparkSource.zip       
- cd sparkSource       
- cp spark.go path/to/the/index.html        
- cd path/to/the/index.html        
- go run spark.go -port 8000        
+wget https://github.com/vpslinuxinstall/StaticWebServer/raw/master/sparkSource.zip       
+unzip sparkSource.zip       
+cd sparkSource       
+cp spark.go path/to/the/index.html        
+cd path/to/the/index.html        
+go run spark.go -port 8000        
  
  ```        
+ 
+ ```        
+wget https://github.com/vpslinuxinstall/StaticWebServer/raw/master/spark_1.7.3_linux_386.zip        
+unzip spark_1.7.3_linux_386.zip        
+cd spark_1.7.3_linux_386        
+cp spark path/to/the/index.html        
+chmod +x spark        
+./spark -port 8000        
+
+ ```        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
