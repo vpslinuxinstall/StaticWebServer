@@ -45,6 +45,19 @@ caddy browse
 
 [ran](https://github.com/m3ng9i/ran)
 
+```        
+wget https://github.com/vpslinuxinstall/StaticWebServer/raw/master/ranSource.zip        
+unzip ranSource.zip        
+cd ranSource        
+go run ran.go -p 8000 -i index.html  -r path/to/the/index.html        
+
+```        
+
+
+
+
+
+
 ```      
 wget https://raw.githubusercontent.com/vpslinuxinstall/StaticWebServer/master/ran_linux_386.zip       
 unzip ran_linux_386     
