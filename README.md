@@ -47,11 +47,19 @@ caddy browse
 
 ```      
 wget https://raw.githubusercontent.com/vpslinuxinstall/StaticWebServer/master/ran_linux_386.zip       
-unzip ran_linux_386       
+unzip ran_linux_386     
+cd ran_linux_386     
+cp ran_linux_386 path/to/the/index.html        
+cd path/to/the/index.html
 chmod +x ran_linux_386        
 ./ran_linux_386 -p 8000 -i index.html        
 
-```
+```      
+
+
+
+
+
        
 
 
