@@ -42,7 +42,7 @@ caddy browse
 
 ## Ran
 
-[Static Web Server](https://github.com/m3ng9i/ran)
+[ran](https://github.com/m3ng9i/ran)
 
 ```      
 wget https://raw.githubusercontent.com/vpslinuxinstall/StaticWebServer/master/ran_linux_386.zip       
