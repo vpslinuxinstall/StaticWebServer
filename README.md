@@ -2,7 +2,7 @@
 <details><summary>Language</summary>
 <p>
 
-* **[Go](#Go)** 
+* **[Go](#Go)**<br />  
        * **[caddy](#caddy)**<br />
        * **[Ran](#Ran)**<br />
        * **[Algernon](#Algernon)**<br />
