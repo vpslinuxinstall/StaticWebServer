@@ -5,8 +5,8 @@
 * **[Go](#Go)**<br/> 
        * **[caddy](#caddy)**<br />
        * **[Ran](#Ran)**<br />
-       * **[Algernon](#Algernon)**<br />       
-      * **[Spark](#Spark)**<br />
+       * **[Algernon](#Algernon)**
+       * **[Spark](#Spark)**<br />
 * **[Python](#Python)**<br />
        * **[twistd](#twistd)**<br /> 
 
