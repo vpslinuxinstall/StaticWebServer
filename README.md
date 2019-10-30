@@ -12,11 +12,30 @@ chmod +x ran_linux_386
 ```        
 wget https://github.com/vpslinuxinstall/StaticWebServer/raw/master/algernon.zip        
 unzip algernon.zip      
-cd algernon
+cd algernon     
+cp algernon path/to/the/index.html      
+cd path/to/the/index.html
 chmod +x algernon        
 ./algernon -x 8000        
 
-```
+```        
+
+[algernon](https://github.com/xyproto/algernon)     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
