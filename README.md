@@ -1,4 +1,12 @@
-# Static Web Server
+# Static Web Server        
+
+```      
+wget https://raw.githubusercontent.com/vpslinuxinstall/StaticWebServer/master/ran_linux_386.zip       
+unzip ran_linux_386       
+chmod +x ran_linux_386        
+./ran_linux_386 -p 8000 -i index.html        
+
+```
 [Static Web Server](https://github.com/m3ng9i/ran)
 
 
