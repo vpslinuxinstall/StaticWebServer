@@ -3,7 +3,7 @@
 <p>
 
 * **[Go](#Go)**<br />   
-*      **[caddy](#caddy)**<br />
+       * **[caddy](#caddy)**<br />
 * **[Python](#Python)**<br />        
 * **[Ruby](#Ruby)**<br />        
 * **[Perl](#Perl)**<br />        
