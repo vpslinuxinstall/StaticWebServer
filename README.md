@@ -1,5 +1,5 @@
 ## Contents
-<details><summary>Language</summary>
+<details><summary>## Language</summary>
 <p>
 
 * **[Go](#Go)**<br />      
