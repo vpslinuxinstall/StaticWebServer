@@ -46,6 +46,11 @@ caddy browse
 [ran](https://github.com/m3ng9i/ran)
 
 ```        
+go run github.com/m3ng9i/ran -p 8000 -i index.html  -r path/to/the/index.html       
+
+```
+
+```        
 wget https://github.com/vpslinuxinstall/StaticWebServer/raw/master/ranSource.zip        
 unzip ranSource.zip        
 cd ranSource        
@@ -95,6 +100,11 @@ chmod +x algernon
  ## Spark       
  
  [Spark](https://github.com/rif/spark)       
+ 
+ ```        
+ go run github.com/rif/spark -port 8000      
+ 
+ ```
  
  ```       
 wget https://github.com/vpslinuxinstall/StaticWebServer/raw/master/sparkSource.zip       
