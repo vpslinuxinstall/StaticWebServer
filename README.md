@@ -53,7 +53,7 @@ go run github.com/m3ng9i/ran -p 8000 -i index.html  -r path/to/the/index.html
 ```        
 wget https://github.com/vpslinuxinstall/StaticWebServer/raw/master/ranSource.zip        
 unzip ranSource.zip        
-cd ranSource        
+cd ran-master             
 go run ran.go -p 8000 -i index.html  -r path/to/the/index.html        
 
 ```        
@@ -291,7 +291,7 @@ http
 [And more](https://gist.github.com/willurd/5720255#comment-841915)     
 
 
-[And more](https://github.com/imgarylai/awesome-webservers)     
+[And more](https://github.com/imgarylai/awesome-webservers)          
 
 
 
